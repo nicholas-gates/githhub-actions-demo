@@ -10,3 +10,4 @@ jobs:
     - run: npm install
     - run: npm test
     - run: echo "😎 HELLO WORLD"
+    - run: echo "😎 END"
